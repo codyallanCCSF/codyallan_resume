@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Responsive Resume 3</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <div class="container">
+    <header>
+      <div>
+        <h1>Cody Gilbert</h1>
+        <p>callang237@gmail.com</p>
+        <a href="https://www.linkedin.com/in/cody-resume" target="_blank">linkedin.com/in/cody-gilbert-student</a></p>
+        <p><a href="https://github.com/codyallanCCSF" target="_blank">github.com/codyallanCCSF</a></p>
+      </div>
+      <img src="CodyAllanPhoto.png" alt="Profile Photo" />
+    </header>
+    <section>
+      <h2>Education</h2>
+      <p>Student at City College of San Francisco</p>
+      <h4>Majors:</h4>
+      <p>Computer Science (A.S)</p>
+      <p>CNIT: Cyber Security (A.S.)</p>
+    </section>
+    <section>
+      <h2>Experience</h2>
+      <p>Lake Merced Golf Course - San Francisco, CA - Present - Outside Services Team</p>
+    </section>
+    <section>
+      <h2>Projects</h2>
+      <p>Created an interactive turtle graphics app using Python.</p>
+      <p>Created a calculator app with Html, CSS, and JavaScript for The Odin Project
+    </section>
+  </div>
+</body>
+
+</html>
